@@ -1,0 +1,9 @@
+  
+{
+    "prefix": "!",
+    "token": "<ADD_BOT_SECRET_HERE>",
+    "ws": {
+        "port": 5665,
+        "token": "123456"
+    }
+}

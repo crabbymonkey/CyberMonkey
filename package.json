@@ -1,0 +1,22 @@
+{
+  "name": "cybermonkey",
+  "version": "1.0.0",
+  "description": "Custom bot for my own server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests as of now...'"
+  },
+  "author": "Ryan Dufrene",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "mongodb": "^3.6.3",
+    "ytdl-core": "^4.2.1"
+  }
+}
